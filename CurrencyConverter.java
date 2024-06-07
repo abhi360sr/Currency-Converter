@@ -4,7 +4,7 @@ import java.awt.event.*;
 
 public class CurrencyConverter { 
 
-    private static final double CONVERSION_RATE = 65.25; 
+    private static final double CONVERSION_RATE = 83.46; 
 
     public static void createAndShowGUI() {
         JFrame frame = new JFrame("Currency Converter");
